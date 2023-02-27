@@ -9,13 +9,14 @@ html {
   
 body {
 
-    font-family: 'Courier New', Courier, monospace;
+    font-family: fantasy;
     font-size: 2rem;
     line-height: 1;
-    text-align: center;
+    text-align: start;
     color: black;
     margin: 0;
-    background-color: aquamarine;
+    background-color: gray;
+
   }
   
   h1 {
